@@ -1,0 +1,13 @@
+sentence-transformers
+faiss-cpu
+pypdf
+rank-bm25
+numpy
+torch
+transformers
+requests
+ragas==0.4.3
+langchain-community==0.4.1
+langchain-openai
+huggingface-hub<2
+jupyterlab
